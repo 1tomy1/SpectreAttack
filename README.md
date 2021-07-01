@@ -5,4 +5,4 @@
 `01_cachedemo.c`: This program demonstrates how we can leverage different data retrieval times - retrieving data from cache or RAM - and use the information to leak secrets from RAM.
 
 # Spectre Attack
-Implementation of [Spectre](https://meltdownattack.com/) attack. This experiment shows, that the CPU's speculative execution of code can be exploited to leak secrets from RAM.
+`spectre.c`: Implementation of [Spectre](https://meltdownattack.com/) attack. This experiment shows, that the CPU's speculative execution of code can be exploited to leak secrets from RAM.
